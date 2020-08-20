@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+
+.App {
+  display: flex;
+  justify-content: space-between;
+}
